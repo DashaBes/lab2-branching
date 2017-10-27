@@ -11,3 +11,4 @@ if __name__ == "__main__":
 	print("Hello")
 	function()
 	function2()
+	print("user 2")
