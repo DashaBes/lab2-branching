@@ -10,6 +10,7 @@ def function2();
 if __name__ == "__main__":
 	print("Hello")
 	print("merge conflict")
+	print("conflict")
 	print("user 1")
 	function()
 	function2()
